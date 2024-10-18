@@ -1,0 +1,33 @@
+html {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    background: #252525;
+    color: #ccc;
+}
+
+@mixin commonBlockPadding {
+    padding-top: 0;
+    padding-bottom: 12px;
+    margin: 0;
+}
+h1, h2, h3, ul, p {
+    @include commonBlockPadding;
+}
+li {
+    padding-bottom: 6px;
+}
+h1 {
+    font-size: 2rem;
+}
+h2 {
+    font-size: 1.5rem;
+}
+
+a {
+    color: #e4a077;
+    transition: .2s;
+    text-underline-offset: 4px;
+    &:hover {
+        color: #cf9168;
+    }
+}
