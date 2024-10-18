@@ -14,7 +14,7 @@ const { title, linkTarget = "_self" } = Astro.props;
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="description" content="seri0zha homepage" />
-		<meta name="viewport" content="width=device-width" />
+		<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,7 +27,7 @@ const { title, linkTarget = "_self" } = Astro.props;
 		main {
 			margin: 0 auto;
 			width: fit-content;
-			min-width: 600px;
+			max-width: 600px;
 			padding: 0 16px;
 		}
 	</style>
