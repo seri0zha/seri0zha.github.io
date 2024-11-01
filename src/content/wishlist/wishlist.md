@@ -7,7 +7,6 @@
 
 - Электронная зубная щётка, например [Oral-B Vitality Pro](https://market.yandex.ru/cc/g529yJy)
 - Электробритва, например [Braun Series 5](https://market.yandex.ru/cc/1X4Cwmh)
-- Elgato Stream Deck Neo (пока не продаётся в РФ)
 - [Beyerdynamic DT770Pro 250 Ohm](https://market.yandex.ru/cc/m3dp0T9)
 - [Беспроводные наушники Nothing Ear (3)](https://market.yandex.ru/cc/vpO1Q9v)
 - Лампа для монитора
