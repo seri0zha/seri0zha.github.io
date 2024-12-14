@@ -1,30 +1,36 @@
-## Аксессуары, одежда
+*Обновлено 14.12.2024*
 
-- Наручные часы
-- Плотный дождевик
+## Настольные игры
+Хочу постепенно пополнять коллекцию настолок. Пока что у меня очень скудный набор. Особых предпочтений нет. Точно мимо - одноразовые игры по типу "What do you meme".
+
+Что уже есть:
+- Нечто
+- Судный день
+- Манчкин - русский, стимпанк
+
+## Расходники
+
+- Кофе - зерновой, дрип-пакеты. Обычно [заказываю здесь](https://shop.tastycoffee.ru/)
+- Хороший листовой чай. Хорошим вариантом будет что-то из этого - [Тегауньинь](https://artoftea.ru/oolong/svetlye/ulun-teguanin/), [Зелёный чай](https://artoftea.ru/greentea/)
 
 ## Железо, инструменты, электроника
 
 - Электронная зубная щётка, например [Oral-B Vitality Pro](https://market.yandex.ru/cc/g529yJy)
 - Электробритва, например [Braun Series 5](https://market.yandex.ru/cc/1X4Cwmh)
-- [Beyerdynamic DT770Pro 250 Ohm](https://market.yandex.ru/cc/m3dp0T9)
 - Лампа для монитора
+- [Beyerdynamic DT770Pro 250 Ohm](https://market.yandex.ru/cc/m3dp0T9)
+- Кофемашина [Nivona 555](https://www.dns-shop.ru/product/1a74ccf5b5d0ed20/kofemasina-avtomaticeskaa-nivona-caferomatica-nicr-555-seryj/)
 
 ## Разное
 
-- [Массажный пистолет Xiaomi Mijia Fascia Gun](https://market.yandex.ru/product--/993934281?show-uid=16870763895249382011106001&context=search&sku=101362599589) или любой аналогичный
+- [Массажный пистолет Xiaomi Mijia Fascia Gun](https://market.yandex.ru/cc/IRAYL7I) или любой аналогичный
+- Пылесос [Karcher VC 3](https://market.yandex.ru/cc/9abpzF7)
 - Набор для чайной церемонии
-- Робот-пылесос
+- [Провод для клавиатуры](https://ozon.ru/t/rLOEGK4)
 
-## Вкусняшки
+## Аксессуары, одежда
 
-- Кофе - зерновой, дрип-пакеты. Обычно [заказываю здесь](https://shop.tastycoffee.ru/)
-- Хороший листовой чай. Люблю тегуаньинь, моли хуа ча, улуны
-- Конфеты - Toblerone белый, Ferrero Rocher
+- Наручные часы (обычные, не смарт)
+- Хлопковый халат без капюшона
+- Плотный дождевик
 
-## Походные принадлежности и спорт
-
-- Велосипедный фонарик (передний и задний)
-- Держатель для телефона на велик
-- Палатка
-- Спальник
