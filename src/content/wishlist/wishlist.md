@@ -1,4 +1,4 @@
-*Обновлено 14.12.2024*
+*Обновлено 31.12.2024*
 
 ## Настольные игры
 Хочу постепенно пополнять коллекцию настолок. Пока что у меня очень скудный набор. Особых предпочтений нет. Точно мимо - одноразовые игры по типу "What do you meme".
@@ -15,9 +15,7 @@
 
 ## Железо, инструменты, электроника
 
-- Электронная зубная щётка, например [Oral-B Vitality Pro](https://market.yandex.ru/cc/g529yJy)
 - Электробритва, например [Braun Series 5](https://market.yandex.ru/cc/1X4Cwmh)
-- Лампа для монитора
 - [Beyerdynamic DT770Pro 250 Ohm](https://market.yandex.ru/cc/m3dp0T9)
 - Кофемашина [Nivona 555](https://www.dns-shop.ru/product/1a74ccf5b5d0ed20/kofemasina-avtomaticeskaa-nivona-caferomatica-nicr-555-seryj/)
 
@@ -25,7 +23,6 @@
 
 - [Массажный пистолет Xiaomi Mijia Fascia Gun](https://market.yandex.ru/cc/IRAYL7I) или любой аналогичный
 - Пылесос [Karcher VC 3](https://market.yandex.ru/cc/9abpzF7)
-- Набор для чайной церемонии
 - [Провод для клавиатуры](https://ozon.ru/t/rLOEGK4)
 
 ## Аксессуары, одежда
