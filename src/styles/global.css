@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+a {
+  @apply text-orange-200 hover:opacity-85 duration-300;
+}
+
+ul {
+  @apply list-disc list-inside pl-4;
+}
+
+h1 {
+  @apply text-3xl;
+}
+
+h2 {
+  @apply text-2xl py-4;
+}

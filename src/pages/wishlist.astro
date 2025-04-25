@@ -1,16 +1,21 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { getEntry, render } from 'astro:content';
+import { getEntry, render } from "astro:content";
 
 const entry = await getEntry("content", "wishlist");
-if (!entry) throw new Error('wishlist.md not found');
+if (!entry) throw new Error("wishlist.md not found");
 
 const { Content } = await render(entry);
 ---
+
 <Layout title={entry.data.title} linkTarget="_blank">
-  <a href="/" target="_self" style="padding-bottom: 12px; display: block; ">
-    На главную
-  </a>
-  {entry.data.updated && <i style="line-height: 1.5; display: block">Обновлено {entry.data.updated}</i>} 
-  <Content />
+  <a href="/" target="_self"> На главную </a>
+  {
+    entry.data.updated && (
+      <i class="block pt-1">Обновлено {entry.data.updated}</i>
+    )
+  }
+  <div class="">
+    <Content />
+  </div>
 </Layout>

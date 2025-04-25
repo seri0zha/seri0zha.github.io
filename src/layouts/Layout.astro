@@ -1,10 +1,10 @@
 ---
-import "../styles/global.scss";
+import "../styles/global.css";
 
 type Props = {
   title: string;
   linkTarget?: "_blank" | "_self";
-}
+};
 
 const { title, linkTarget = "_self" } = Astro.props;
 ---
@@ -28,18 +28,9 @@ const { title, linkTarget = "_self" } = Astro.props;
     <meta name="generator" content={Astro.generator} />
     <base target={linkTarget} />
     <title>{title}</title>
-    <style>
-      main {
-        margin: 0 auto;
-        width: fit-content;
-        max-width: 600px;
-        padding: 0 16px;
-      }
-    </style></head
-  >
-
-  <body>
-    <main>
+  </head>
+  <body class="bg-stone-700 text-stone-300 text-lg">
+    <main class="max-w-2xl m-auto p-6">
       <slot />
     </main>
   </body>
