@@ -1,11 +1,15 @@
 @import "tailwindcss";
 
 a {
-  @apply text-orange-200 hover:opacity-85 duration-300;
+  @apply text-indigo-300 hover:opacity-85 duration-300;
 }
 
 ul {
-  @apply list-disc list-inside pl-4;
+  @apply list-disc list-inside;
+}
+
+ul ul {
+  @apply pl-6;
 }
 
 h1 {
