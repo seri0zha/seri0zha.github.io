@@ -13,17 +13,18 @@ updated: "09.07.2025"
 - Манчкин - русский, стимпанк
 
 ## Расходники
-
 - Кофе - зерновой, дрип-пакеты. Обычно [заказываю здесь](https://shop.tastycoffee.ru/)
 - Хороший листовой чай. Из предпочтений - улуны, пуэр, красный чай. Не откажусь попробовать что-то новое.
-
-  Чаи которые зашли:
-  
 - Да Хун Пао - [Большой Красный Халат](https://artoftea.ru/oolong/dahongpao-1-sort), [Высший сорт](https://artoftea.ru/oolong/dahongpao-high-baking)
+
+&nbsp;
+
+Вот эти чаи хорошо зашли:
+
+&nbsp;
 - [Тегуаньинь](https://artoftea.ru/oolong/svetlye/teguanin-vysshiy-sort)
 - [Пуэрчики](https://artoftea.ru/puer)
-
-  Также, если не можете определиться с чаем, на сайте есть [подарочные сертификаты](https://artoftea.ru/podarochnyye-sertifikaty) и [подарочные наборы](https://artoftea.ru/chaynyye-nabory)
+Также, если не можете определиться с чаем, на сайте есть [подарочные сертификаты](https://artoftea.ru/podarochnyye-sertifikaty) и [подарочные наборы](https://artoftea.ru/chaynyye-nabory)
 
 ## Железо, инструменты, электроника
 
