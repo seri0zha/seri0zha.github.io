@@ -1,9 +1,11 @@
 ---
 title: seri0zha - Wishlist
-updated: "30.06.2025"
+updated: "09.07.2025"
 ---
 ## Настольные игры
-Хочу постепенно пополнять коллекцию настолок. Пока что у меня очень скудный набор. Особых предпочтений нет. Точно мимо - одноразовые игры по типу "What do you meme".
+Хочу постепенно пополнять коллекцию настолок. Пока что у меня очень скудный набор. Особых предпочтений нет.
+
+Точно мимо - одноразовые игры по типу "What do you meme".
 
 Что уже есть:
 - Нечто
@@ -14,9 +16,14 @@ updated: "30.06.2025"
 
 - Кофе - зерновой, дрип-пакеты. Обычно [заказываю здесь](https://shop.tastycoffee.ru/)
 - Хороший листовой чай. Из предпочтений - улуны, пуэр, красный чай. Не откажусь попробовать что-то новое.
-  - Да Хун Пао - [Большой Красный Халат](https://artoftea.ru/oolong/dahongpao-1-sort), [Высший сорт](https://artoftea.ru/oolong/dahongpao-high-baking)
-  - [Тегуаньинь](https://artoftea.ru/oolong/svetlye/teguanin-vysshiy-sort)
-  - [Пуэрчики](https://artoftea.ru/puer)
+
+  Чаи которые зашли:
+  
+- Да Хун Пао - [Большой Красный Халат](https://artoftea.ru/oolong/dahongpao-1-sort), [Высший сорт](https://artoftea.ru/oolong/dahongpao-high-baking)
+- [Тегуаньинь](https://artoftea.ru/oolong/svetlye/teguanin-vysshiy-sort)
+- [Пуэрчики](https://artoftea.ru/puer)
+
+  Также, если не можете определиться с чаем, на сайте есть [подарочные сертификаты](https://artoftea.ru/podarochnyye-sertifikaty) и [подарочные наборы](https://artoftea.ru/chaynyye-nabory)
 
 ## Железо, инструменты, электроника
 
@@ -28,6 +35,7 @@ updated: "30.06.2025"
 ## Разное
 
 - [Провод для клавиатуры](https://ozon.ru/t/gaMCjFy)
+- [Кофеварка Kitfort KT-7530](https://kitfort.ru/catalog/kofevarki-rozhkovye/kofevarka-kitfort-kt-7530/) (есть на озоне)
 
 ## Аксессуары
 
