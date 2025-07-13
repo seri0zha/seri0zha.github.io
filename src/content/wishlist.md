@@ -26,13 +26,6 @@ updated: "09.07.2025"
 - [Пуэрчики](https://artoftea.ru/puer)
 Также, если не можете определиться с чаем, на сайте есть [подарочные сертификаты](https://artoftea.ru/podarochnyye-sertifikaty) и [подарочные наборы](https://artoftea.ru/chaynyye-nabory)
 
-## Железо, инструменты, электроника
-
-- Комплектующие для пк
-  - Процессор [Ryzen 7 9700X](https://market.yandex.ru/cc/6fsXSu)
-  - ОЗУ DDR5 32gb [G.Skill Trident Z5](https://www.dns-shop.ru/product/c6ac4ce2bbcded20/operativnaa-pamat-gskill-trident-z5-rgb-f5-6000j3040f16gx2-tz5rk-32-gb/)
-  - Материнская плата [MSI PRO B650-A WIFI](https://www.dns-shop.ru/product/87a19b005eafd9cb/materinskaa-plata-msi-pro-b650-a-wifi/)
-  - Блок питания [1STPLAYER NGDP 850W](https://market.yandex.ru/cc/6vbK2N)
 ## Разное
 
 - [Провод для клавиатуры](https://ozon.ru/t/gaMCjFy)
