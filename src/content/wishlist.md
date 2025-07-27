@@ -1,6 +1,6 @@
 ---
 title: seri0zha - Wishlist
-updated: "23.07.2025"
+updated: "27.07.2025"
 ---
 ## Настольные игры
 Хочу постепенно пополнять коллекцию настолок. Пока что у меня очень скудный набор. Особых предпочтений нет.
@@ -28,6 +28,12 @@ updated: "23.07.2025"
 - [Тегуаньинь](https://artoftea.ru/oolong/svetlye/teguanin-vysshiy-sort)
 - [Пуэрчики](https://artoftea.ru/puer)
 Также, если не можете определиться с чаем, на сайте есть [подарочные сертификаты](https://artoftea.ru/podarochnyye-sertifikaty) и [подарочные наборы](https://artoftea.ru/chaynyye-nabory)
+
+## Походные пренадлежности
+- [Палатка 2-х местная](https://ozon.ru/t/bpvzmEl)
+- [Спальный мешок (2 шт.)](https://ozon.ru/t/TH0MaNz)
+- [Походный рюкзак](https://ozon.ru/t/J2AObSs)
+- Трекинговые палки
 
 ## Разное
 
