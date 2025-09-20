@@ -1,6 +1,6 @@
 ---
 title: seri0zha - Wishlist
-updated: "27.07.2025"
+updated: "20.09.2025"
 ---
 ## Настольные игры
 Хочу постепенно пополнять коллекцию настолок. Пока что у меня очень скудный набор. Особых предпочтений нет.
@@ -15,35 +15,28 @@ updated: "27.07.2025"
 - Манчкин - русский, стимпанк
 - Каркассон: Юбилейное издание
 
-## Расходники
-- Кофе - зерновой, дрип-пакеты. Обычно [заказываю здесь](https://shop.tastycoffee.ru/)
-- Хороший листовой чай. Из предпочтений - улуны, пуэр, красный чай. Не откажусь попробовать что-то новое.
-- Да Хун Пао - [Большой Красный Халат](https://artoftea.ru/oolong/dahongpao-1-sort), [Высший сорт](https://artoftea.ru/oolong/dahongpao-high-baking)
-
-&nbsp;
-
-Вот эти чаи хорошо зашли:
-
+## Чай
+Люблю хороший листовой чай. Ниже список того, что зашло больше всего. Не откажусь попробовать что-то новое.
+- [Да Хун Пао](https://artoftea.ru/oolong/dahongpao-1-sort), [Да Хун Пао Высший сорт](https://artoftea.ru/oolong/dahongpao-high-baking)
 &nbsp;
 - [Тегуаньинь](https://artoftea.ru/oolong/svetlye/teguanin-vysshiy-sort)
 - [Пуэрчики](https://artoftea.ru/puer)
-Также, если не можете определиться с чаем, на сайте есть [подарочные сертификаты](https://artoftea.ru/podarochnyye-sertifikaty) и [подарочные наборы](https://artoftea.ru/chaynyye-nabory)
+- Также, если не можете определиться с чаем, на сайте есть [подарочные сертификаты](https://artoftea.ru/podarochnyye-sertifikaty) и [подарочные наборы](https://artoftea.ru/chaynyye-nabory)
 
 ## Походные пренадлежности
-- [Палатка 2-х местная](https://ozon.ru/t/bpvzmEl)
-- [Спальный мешок (2 шт.)](https://ozon.ru/t/TH0MaNz)
-- [Походный рюкзак](https://ozon.ru/t/J2AObSs)
+- [Палатка 3-х местная](https://ozon.ru/t/QoEln2k) или аналогичная, с тамбуром
+- [Спальный мешок (2 шт.)](https://ozon.ru/t/a5Ogh80)
+- [Большой походный рюкзак](https://market.yandex.ru/cc/7dYsFr)
 - Трекинговые палки
 
 ## Разное
 
-- [Провод для клавиатуры](https://ozon.ru/t/gaMCjFy)
-- [Кофеварка Kitfort KT-7530](https://kitfort.ru/catalog/kofevarki-rozhkovye/kofevarka-kitfort-kt-7530/) (есть на озоне)
+- [Спиральный провод для клавиатуры](https://ozon.ru/t/gaMCjFy)
+- [Кружка для пива](https://ozon.ru/t/nKRupt5)
 
 ## Аксессуары
 
-- Наручные часы (не смарт). Уже есть:
-  - [Huawei Watch GT 5](https://market.yandex.ru/cc/6jAfuL)
+- Наручные часы (не смарт). Уже есть [Huawei Watch GT 5](https://market.yandex.ru/cc/6jAfuL)
 - Плотный дождевик
 
 ## Другое
