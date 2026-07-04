@@ -1,6 +1,6 @@
 ---
 title: seri0zha - Wishlist
-updated: "23.12.2025"
+updated: "04.07.2026"
 ---
 ## Настольные игры 🎲
 Хочу постепенно пополнять коллекцию настолок. Пока что у меня очень скудный набор. Особых предпочтений нет.
@@ -14,14 +14,10 @@ updated: "23.12.2025"
 - Судный день
 - Манчкин - русский, стимпанк
 - Каркассон: Юбилейное издание
+- Эпичные схватки боевых магов: Крутагидон. Экстремально острый чипсихоз
 
 ## Чай 🫖
-Люблю хороший листовой чай. Ниже список того, что зашло больше всего. Не откажусь попробовать что-то новое.
-- [Да Хун Пао](https://artoftea.ru/oolong/dahongpao-1-sort), [Да Хун Пао Высший сорт](https://artoftea.ru/oolong/dahongpao-high-baking)
-&nbsp;
-- [Тегуаньинь](https://artoftea.ru/oolong/svetlye/teguanin-vysshiy-sort)
-- [Пуэрчики](https://artoftea.ru/puer)
-- [Подарочные сертификаты](https://artoftea.ru/podarochnyye-sertifikaty) и [подарочные наборы](https://artoftea.ru/chaynyye-nabory)
+- [Подарочные сертификаты в магазин чая на любую сумму](https://artoftea.ru/podarochnyye-sertifikaty)
 
 ## Походные пренадлежности 🏞️
 - [Палатка 3-х местная](https://ozon.ru/t/QoEln2k) или аналогичная, с тамбуром
@@ -31,12 +27,9 @@ updated: "23.12.2025"
 ## Разное ✨
 
 - [Кофемашина Nivona 555](https://www.dns-shop.ru/product/1a74ccf5b5d0ed20/kofemasina-avtomaticeskaa-nivona-caferomatica-nicr-555-seryj/)
-- [Сувид INKBIRD](https://ozon.ru/t/7iy452g)
-
-## Аксессуары ⌚
-
-- Наручные часы (не смарт). [Можно выбрать тут](https://www.alltime.ru/watch/filter/brand:casio/collection:edifice/)
-- Плотный дождевик на рост 190
+- [Микрофон Rode Podmic XLR](https://ru.microless.com/product/rode-podmic-dynamic-podcasting-microphone-broadcast-quality-cardioid-mic-with-internal-pop-filter-swing-mount-black/)
+- [Низкопрофильная стойка для микрофона Elgato Wave Mic Arm LP](https://ru.microless.com/product/elgato-wave-low-profile-mic-arm-fully-adjustable-360-degree-rotation-compatible-with-1-4-3-8-and-5-8-inch-mic-mounts-for-recording-streaming-broadcasting-gaming-white-10aan9911/)
+- [Велосипед Outleap RUDEWAY A2 2026, вилка XL](https://trial-sport.ru/goods/3191623.html)
 
 ## Другое
 Всегда можете закинуть мне деньжат, это подтолкнёт меня сделать вишлист меньше =)
