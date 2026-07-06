@@ -16,8 +16,9 @@ updated: "04.07.2026"
 - Каркассон: Юбилейное издание
 - Эпичные схватки боевых магов: Крутагидон. Экстремально острый чипсихоз
 
-## Чай 🫖
+## Чай, кофе 🫖
 - [Подарочные сертификаты в магазин чая на любую сумму](https://artoftea.ru/podarochnyye-sertifikaty)
+- [Подарочные сертификаты на кофе](https://shop.tastycoffee.ru/accessories/gift-certificate)
 
 ## Походные пренадлежности 🏞️
 - [Палатка 3-х местная](https://ozon.ru/t/QoEln2k) или аналогичная, с тамбуром
@@ -26,7 +27,6 @@ updated: "04.07.2026"
 
 ## Разное ✨
 
-- [Кофемашина Nivona 555](https://www.dns-shop.ru/product/1a74ccf5b5d0ed20/kofemasina-avtomaticeskaa-nivona-caferomatica-nicr-555-seryj/)
 - [Микрофон Rode Podmic XLR](https://ru.microless.com/product/rode-podmic-dynamic-podcasting-microphone-broadcast-quality-cardioid-mic-with-internal-pop-filter-swing-mount-black/)
 - [Низкопрофильная стойка для микрофона Elgato Wave Mic Arm LP](https://ru.microless.com/product/elgato-wave-low-profile-mic-arm-fully-adjustable-360-degree-rotation-compatible-with-1-4-3-8-and-5-8-inch-mic-mounts-for-recording-streaming-broadcasting-gaming-white-10aan9911/)
 - [Велосипед Outleap RUDEWAY A2 2026, вилка XL](https://trial-sport.ru/goods/3191623.html)
